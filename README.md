@@ -38,3 +38,6 @@ SecureFileManagementSystem
 ├── database.py
 ├── vault/
 └── users.db
+## Application Interface
+
+![Secure File Management System](images/Screenshot%20(293).png)
