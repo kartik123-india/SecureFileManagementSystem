@@ -40,4 +40,4 @@ SecureFileManagementSystem
 └── users.db
 ## Application Interface
 
-![Secure File Management System](images/Screenshot%20(293).png)
+![Secure File Management System](images/app_interface.png)
